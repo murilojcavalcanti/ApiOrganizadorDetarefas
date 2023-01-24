@@ -1,0 +1,1 @@
+Neste repositorio está o projeto do desafio para criar uma api de um Organizador de tarefas proposto pela DIO

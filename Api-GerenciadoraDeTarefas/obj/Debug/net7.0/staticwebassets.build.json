@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "T3h/L5OCIbNX7ZXwgxGXfMPdjcBwiQKZwgu4UWjcoY0=",
+  "Source": "Api-GerenciadoraDeTarefas",
+  "BasePath": "_content/Api-GerenciadoraDeTarefas",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
